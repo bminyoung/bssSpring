@@ -1,5 +1,5 @@
 # bssSpring
 
-##JSP to Spring
+## JSP to Spring
 
-###Convert BSS from JSP to Spring
+### Convert BSS from JSP to Spring
